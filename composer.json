@@ -2,5 +2,6 @@
 "require": {
     "simple-html-dom/simple-html-dom": "*",
     "ext-mbstring": "*"
+    "php": "^7.2.0"
 }
 }
